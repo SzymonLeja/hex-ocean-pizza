@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hex-ocean-pizza/static/css/main.9b029287.chunk.css",
+    "main.js": "/hex-ocean-pizza/static/js/main.b1d30ea0.chunk.js",
+    "main.js.map": "/hex-ocean-pizza/static/js/main.b1d30ea0.chunk.js.map",
+    "runtime-main.js": "/hex-ocean-pizza/static/js/runtime-main.6c0fb2f9.js",
+    "runtime-main.js.map": "/hex-ocean-pizza/static/js/runtime-main.6c0fb2f9.js.map",
+    "static/js/2.1de377cf.chunk.js": "/hex-ocean-pizza/static/js/2.1de377cf.chunk.js",
+    "static/js/2.1de377cf.chunk.js.map": "/hex-ocean-pizza/static/js/2.1de377cf.chunk.js.map",
+    "index.html": "/hex-ocean-pizza/index.html",
+    "static/css/main.9b029287.chunk.css.map": "/hex-ocean-pizza/static/css/main.9b029287.chunk.css.map",
+    "static/js/2.1de377cf.chunk.js.LICENSE.txt": "/hex-ocean-pizza/static/js/2.1de377cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c0fb2f9.js",
+    "static/js/2.1de377cf.chunk.js",
+    "static/css/main.9b029287.chunk.css",
+    "static/js/main.b1d30ea0.chunk.js"
+  ]
+}
