@@ -1,5 +1,6 @@
 # HexOcean recruitment exercise
 To set up the project you simply download it and open terminal/cmd and type `npm install` to install all node dependencies and then `npm start` to start the project.
+Online version of the project: https://szymonleja.github.io/hex-ocean-pizza/
 
 ## Time spent
 
