@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+}
+body {
+  background: url('https://i.pinimg.com/originals/79/f2/02/79f202b2a76562b279f5002533b1ef4e.png');
+  background-size: cover;
+}
+.full-width-formControl {
+  width: 100%;
+  margin-top: 18px !important;
+}
+.button-div {
+  text-align: center;
+  margin-top: 20px !important;
+}
+.MuiGrid-root.main-grid{
+  max-width: 800px;
+  text-align: center;
+  margin: 10% auto 0 auto;
+  form {
+    padding: 25px;
+    background: #fff;
+    .logo {
+      max-width: 130px;
+      margin-top: 15px !important;
+    }
+  }
+}
+
