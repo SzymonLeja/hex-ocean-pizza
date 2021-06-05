@@ -93,7 +93,6 @@ export default function App() {
   return (
     <Grid
       container
-      spacing={6}
       direction="row"
       justify="center"
       alignItems="center"
